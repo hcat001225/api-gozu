@@ -1,0 +1,30 @@
+# Módulos y dependencias instaladas
+/node_modules
+
+# Archivo de registro de errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos generados por build
+/build
+/dist
+
+# Archivos de entorno
+.env
+
+# Dependencias específicas de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*~
+
+# Carpeta de cobertura de pruebas
+/coverage
+
+# Carpetas generadas por IDEs
+.idea
+.vscode
